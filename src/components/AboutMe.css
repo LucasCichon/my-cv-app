@@ -1,0 +1,19 @@
+.about-me {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .about-me h2 {
+    text-align: center;
+  }
+  
+  .about-me p {
+    font-size: 1em;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  

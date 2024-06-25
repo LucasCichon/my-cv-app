@@ -1,0 +1,19 @@
+.education {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .education h2 {
+    text-align: center;
+  }
+  
+  .education-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+  }
+  
